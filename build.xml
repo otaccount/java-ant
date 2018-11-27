@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<echo message="start" />
+	
+	<mkdir dir="classes" />
+	<javac srcdir="src" destdir="classes" includeantruntime="false" />
+	
+	<mkdir dir="doc" />
+	<javadoc sourcepath="src" destdir="doc" /> 
+	
+	<echo message="end" />
+</project>

@@ -1,4 +1,6 @@
-Sample  
-2行目
+https://ant.apache.org/
 
-2段目
+
+antとjavaのパスを通して、
+「ant」を実行。
+
